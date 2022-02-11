@@ -1,0 +1,8 @@
+lib: [
+  "/home/d4hines/repos/debugging-gcc-issues/_esy/default/store/b/debugging_gcc_issues-05fb2dcb/install/default/lib/hello/META"
+  "/home/d4hines/repos/debugging-gcc-issues/_esy/default/store/b/debugging_gcc_issues-05fb2dcb/install/default/lib/hello/dune-package"
+  "/home/d4hines/repos/debugging-gcc-issues/_esy/default/store/b/debugging_gcc_issues-05fb2dcb/install/default/lib/hello/opam"
+]
+bin: [
+  "/home/d4hines/repos/debugging-gcc-issues/_esy/default/store/b/debugging_gcc_issues-05fb2dcb/install/default/bin/hello"
+]
