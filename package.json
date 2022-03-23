@@ -1,7 +1,16 @@
 {
     "name": "hello",
     "esy": {
-        "build": "dune build -p #{self.name}"
+        "build": "dune build -p #{self.name}",
+        "release": {
+            "bin": [
+                "hello"
+            ],
+            "includePackages": [
+                "root",
+                "@opam/dream"
+            ]
+        }
     },
     "dependencies": {
         "@opam/dream": "*"
