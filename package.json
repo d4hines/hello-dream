@@ -4,6 +4,8 @@
         "build": "dune build -p #{self.name}"
     },
     "dependencies": {
-        "@opam/dream": "*"
+        "@opam/dream": "*",
+        "@opam/dune": "*",
+        "@opam/ocaml-lsp-server": "*"
     }
 }
